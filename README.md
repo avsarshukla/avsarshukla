@@ -24,17 +24,15 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-  <h2>🌦️ Living Weather — Kolkata, West Bengal, India</h2>
+  <h2>🌦️ Kolkata</h2>
 
-  <a href="https://wttr.in/Kolkata">
-    <img src="https://wttr.in/Kolkata.png?m&lang=en"
-         alt="Live weather in Kolkata, West Bengal, India" />
-  </a>
+  <img src="https://wttr.in/Kolkata?format=%25C+%7C+Now:+%25t+(feels+%25f)+%7C+Max:+%25M+Min:+%25m&m"
+       alt="Kolkata weather" />
 
   <br />
 
-  <img src="https://wttr.in/Kolkata?format=%25C+%25t+feels+like+%25f+%7C+humidity+%25h+%7C+wind+%25w&m"
-       alt="Kolkata weather right now" />
+  <img src="https://wttr.in/Kolkata?format=AQI:+%25x&m"
+       alt="Kolkata AQI" />
 
 </div>
 
@@ -44,8 +42,6 @@
 <!--                     SNAKE ANIMATION                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-
-  <h2>🐍 Contribution Snake</h2>
 
   <img src="https://raw.githubusercontent.com/avsarshukla/avsarshukla/output/github-contribution-grid-snake.svg"
        alt="Snake animation" />
